@@ -4,3 +4,5 @@ Then What I did afterwards is that I used the Google AI in Safari (The AI that p
 After I added it I did my first CPR so I make sure I dont loose anything.
 
 I made changes to the css where the links dont really look like hyperlinks making them look nicer I also centered the grid and made minor changes to the spacing. This is where I sent in another CPR
+
+I also hooked it up to netlify https://working-with-tables-kindleisbest.andrewnashed.org/ and started to add a playlist
